@@ -1,6 +1,6 @@
-# MV-exercise-2
+# MV-exercise-1
 
-## machine vision exercise 2
+## machine vision exercise 1
 ### in Matlab
 
 #### 1: draw a circle
